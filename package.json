@@ -1,0 +1,33 @@
+{
+  "name": "npm-all-area",
+  "version": "1.0.0",
+  "description": "this is calculate all area!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irshadvali/npm-all-area.git"
+  },
+  "keywords": [
+    "area",
+    "circle",
+    "area",
+    "square",
+    "area",
+    "rectangle",
+    "area",
+    "perimeter",
+    "circle",
+    "perimeter",
+    "npm",
+    "npm-all-area"
+  ],
+  "author": "irshad vali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irshadvali/npm-all-area/issues"
+  },
+  "homepage": "https://github.com/irshadvali/npm-all-area#readme"
+}
